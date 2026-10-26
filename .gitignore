@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+publish/
+*.user
+.vs/
+.vscode/
+
+# Created next to the exe at runtime; personal to whoever runs it
+settings.json
+recent_players.json
+declines.csv
+friend-guard.log
